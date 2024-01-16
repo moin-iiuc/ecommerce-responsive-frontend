@@ -1,0 +1,61 @@
+.navbar{
+    background-color: #1A187A;
+}
+.offcanvas{
+    background-color: #1A187A;
+}
+.canva2{
+    background-color: #EDEDED;
+}
+.btn{
+    background-color: #1A187A;
+    color:white;
+}
+.canva1{
+background-color: white;
+}
+.canva12{
+    background-color: #ADC2D7;
+}
+
+.category1{
+    background-color: #EDEDED;
+}
+.card11{
+    background-color: #EDEDED;
+}
+.sale-container{
+    background-color: #958AD4;
+    color:white;
+}
+.sale-title{
+    color:#25177B;
+}
+.support-footer a{
+    text-decoration: none;
+    color:white;
+}
+.link-footer a{
+    text-decoration: none;
+    color:white;
+}
+.parent-div{
+    position:relative;
+}
+.canva{
+    position: relative;
+    top:0;
+}
+.social-links{
+    order:0;
+}
+@media only screen and (min-width: 200px) and (max-width: 767px)  {
+    .social-links{
+        order:2;
+    }
+    }
+    .carousel-inner{
+        background-color: #9CA8FB;
+    }
+
+
